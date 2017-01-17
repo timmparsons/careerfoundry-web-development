@@ -1,0 +1,13 @@
+.jumbotron {
+	background-image: url("../img/leaf.jpg");
+	background-size: cover;
+}
+
+.jumbotron p {
+	color: white;
+}
+
+.container a {
+  color: white;
+  background: orange;
+}

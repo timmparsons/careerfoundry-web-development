@@ -1,0 +1,16 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.header h1 {
+  text-align: center;
+}
+
+.image {
+  display: inline-block;
+}
+
+.column {
+  display: inline-block;
+}
